@@ -1,0 +1,19 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: grey;
+}
+
+h1 {
+  font-style: bold;
+  color: navy;
+}
+
+.btn{
+  color: white;
+  width: 100px;
+  height: 35px;
+  background-color: teal;
+}
